@@ -9,7 +9,7 @@
  }
  else 
  {
-    Console.WriteLine("Неа");
+    Console.WriteLine("Нет");
     Console.Read();
  }
   
